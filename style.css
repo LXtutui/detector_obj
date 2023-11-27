@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+}
+
+#iniciar, #num{
+    font-size: 18px;
+}
+
+#status{
+    color: white;
+}
+
+#rodape{
+    position: fixed;
+    color: white;
+    background-color: blue;
+    line-height: 2;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
